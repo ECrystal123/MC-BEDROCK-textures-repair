@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "测试V0.1Alpha，作者的小破站§b@Ender_crystal123§f，作者的苦力怕论坛@zhenghongze123",
+        "name": "Minecraft§2§l材质修复！",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 21, 0 ]
+    },
+    "modules": [
+        {
+            "description":"测试V0.1Alpha，作者的小破站§b@Ender_crystal123§f，作者的苦力怕论坛@zhenghongze123",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "version": [0, 1, 0]
+        }
+    ]
+}
